@@ -13,17 +13,20 @@ A complete implementation of Value at Risk (VaR) methodologies for market risk a
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Methodologies](#-methodologies)
-- [Results](#-results)
-- [Technical Report](#-technical-report)
-- [How This Helps Risk Managers](#-how-this-helps-risk-managers)
-- [Future Enhancements](#-future-enhancements)
-- [License](#-license)
 
 ## 🌟 Project Overview
 This project demonstrates quantitative risk management techniques used by banks and hedge funds to:
 - Measure potential portfolio losses
 - Compare different VaR methodologies
 - Evaluate risk under stressed market conditions
+
+
+## 🚀 Key Features
+| Feature | Description |
+|---------|-------------|
+| 📊 Historical VaR | Empirical quantile-based risk measurement |
+| 🎲 Monte Carlo Simulation | 10,000 GBM paths with configurable parameters |
+| 🧪 Stress Testing | Volatility shock analysis (+50% scenario) |
+| 📈 Visualization | Interactive plots of risk metrics |
+| 📝 Documentation | Complete technical report with LaTeX |
+
